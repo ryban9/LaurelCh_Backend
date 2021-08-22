@@ -1,0 +1,5 @@
+Caballo
+Gallina
+Gato
+Mariposa
+Perro
